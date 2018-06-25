@@ -1,6 +1,12 @@
 # hex-check :milky_way: [![Build Status](https://travis-ci.org/damianpolak/hex-check.svg?branch=master)](https://travis-ci.org/damianpolak/hex-check)
 > Checks if a string or number is a valid hexadecimal value.
 
+## Install
+
+```
+$ npm install hex-check
+```
+
 ## Usage
 
 ```js
