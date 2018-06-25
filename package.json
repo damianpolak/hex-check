@@ -1,0 +1,36 @@
+{
+  "name": "hex-check",
+  "version": "1.0.0",
+  "description": "Checks if a string or number is a valid hexadecimal value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^1.0.0-beta.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damianpolak/hex-check.git"
+  },
+  "keywords": [
+    "hex",
+    "hexadecimal",
+    "valid",
+    "validation",
+    "check",
+    "checks",
+    "string",
+    "value",
+    "number"
+  ],
+  "author": {
+    "name": "Damian Polak",
+    "email": "deeppurple044@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damianpolak/hex-check/issues"
+  },
+  "homepage": "https://github.com/damianpolak/hex-check#readme"
+}
